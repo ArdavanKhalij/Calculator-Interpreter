@@ -16,6 +16,7 @@
 # X → a
 # X → - a
 # X → ( E )
+#
 
 
 tokens = ('NUMBER','PLUS', 'MINUS', 'MUL', 'DIV', 'LPAR', 'RPAR', 'POW')

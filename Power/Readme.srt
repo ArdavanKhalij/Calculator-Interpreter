@@ -1,0 +1,20 @@
+Grammer
+
+S → E
+
+E → E + T
+E → E - T
+E → T
+
+T → T * F
+T → T / F
+T → F
+
+F → F ^ X
+F → B
+
+X → a
+X → ( E )
+
+B → a
+B → ( E )

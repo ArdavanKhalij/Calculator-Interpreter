@@ -11,10 +11,7 @@ T → T / F
 T → F
 
 F → F ^ X
-F → B
+F → X
 
 X → a
 X → ( E )
-
-B → a
-B → ( E )
